@@ -14,5 +14,10 @@ from numpy import nan as npNaN
 LSTM用は以下をインストールして下さい
 scikit-learn,tensorflow
 
+scikit-learnは以下のコマンドでインストール可能です。
+pip install -U scikit-learn
+tensorflowは以下でインストールできます。
+pip install tensorflow
+
 同じフォルダに"stock_price.csv"を置いて実行すれば、動作します。
 
